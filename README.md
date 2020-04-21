@@ -6,7 +6,7 @@
 
 可以通过以下任意一个方式申请友链
   + 按照指定格式编辑`links.yml`文件，然后给本仓库提PR。
-  + 发送邮件到`add_sp@outlook.com`。
+  + 发送邮件到`me@addesp.com`。
 
 # 原则
 
