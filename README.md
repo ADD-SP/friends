@@ -6,7 +6,7 @@
 
 可以通过以下任意一个方式申请友链
   + 按照指定格式编辑`links.yml`文件，然后给本仓库提PR。
-  + 发送邮件到`me@addesp.com`。
+  + 发送邮件到[me@addesp.com](mailto:me@addesp.com)
 
 # 原则
 
@@ -31,7 +31,7 @@ blog: ADD-SP's blog
 name: ADD-SP
 url: https://www.addesp.com
 avatar: https://www.addesp.com/avatar.jpg
-email: add_sp@outlook.com
+email: me@addesp.com
 color: "#007bbb"
 desc: Hello World!
 ```
