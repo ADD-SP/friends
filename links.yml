@@ -94,3 +94,10 @@
   avatar: https://www.gravatar.com/avatar/05bb2aa29c9da6ef65fabd321135e7b6?s=128
   desc: 虹墨空间站
   color: "#FF3366"
+- blog: woo’s Blog
+  name: woo
+  url: https://wqian.top/
+  avatar: https://wqian.top/images/head.jpg
+  email: i@wqian.top
+  color: “#1da1f2”
+  desc: Hello World!
