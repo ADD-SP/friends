@@ -95,10 +95,8 @@
   desc: 虹墨空间站
   color: "#FF3366"
 - blog: woo’s Blog
-  name: woo
-  url: https://wqian.top/
-  avatar: https://wqian.top/images/head.jpg
-  email: i@wqian.top
+  url: https://woosec.com/
+  avatar: https://woosec.com/images/head.jpg
   color: "#1da1f2"
   desc: Hello World!
 - blog: 伍言Blog
