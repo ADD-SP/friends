@@ -1,0 +1,32 @@
+name: LinkCheck
+
+on: 
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+
+jobs:
+  LinkCheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with: 
+          ref: master
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install  libffi-dev build-essential zlib1g-dev \
+                                libpcre3 libpcre3-dev libssl-dev \
+                                libxslt1-dev libxml2-dev libgeoip-dev \
+                                libgd-dev libperl-dev uthash-dev  \
+                                python python-pip
+          sudo pip3 install pyyaml
+      - name: Check all links
+        run: |
+          sudo python3 tests/gen-links.py
+          sudo bash tests/linkcheck.sh
+
