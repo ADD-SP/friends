@@ -21,12 +21,15 @@ do
     error_msg=''
     set_http_code $line
     count=0
+    set_redirect_url $line
+    temp=$line
     while [ $http_code = 301 -o $http_code = 302 -o $http_code = 303 -o $http_code = 307 -o $http_code = 308 ]
     do
-        set_redirect_url $line
-        echo -e "${YELOW}${http_code}${RES}: [${line}] redirects to [${redirect_url}]."
+        echo -e "${YELOW}${http_code}${RES}: [${temp}] redirects to [${redirect_url}]."
         set_http_code $redirect_url
         ((count++))
+        temp=$redirect_url
+        set_redirect_url $redirect_url
         if [ $count -ge 10 ] ; then
             is_error=1
             break
