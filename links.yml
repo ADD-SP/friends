@@ -11,12 +11,6 @@
   email: 13993481533@163.com
   desc: Hello World!
   color: "#884898"
-# - blog: 小章鱼的博客
-#   url: http://www.zykhome.club:8080/
-#   avatar: http://www.zykhome.club:8080/upload/2020/04/b-16ba4b7dbd33497ca357f8d44f5657f9.jpg
-#   email: zyk3053161401@gmail.com
-#   color: "#b44c97"
-#   desc: 分享技术，记录生活。
 - blog: OkYes! 技术博客
   url: https://2890.ltd/
   avatar: https://cdn233.2890.ltd/20200111/1/5e18a37b39308CLSUFFlogosmallest.png
@@ -39,11 +33,6 @@
   url: https://type.zhoublog.xyz/
   avatar: https://cdn.jsdelivr.net/gh/Zhou216/Zhoublog/Friend-links/MC.png
   desc: WhoAmI?
-# - blog: 魏巍 
-#   color: "#008899"
-#   url: https://paperbox.xyz/
-#   avatar: https://q1.qlogo.cn/g?b=qq&nk=1620793284&s=140
-#   desc: 越努力，越幸运
 - blog: SARGIRI
   color: "#e95295"
   url: https://blog.sagiri-web.com/
@@ -135,16 +124,3 @@
   url: https://sanshiliuxiao.top
   avatar: https://cdn.jsdelivr.net/gh/vensing/static@latest/avatar/sanshiliuxiao.jpg
   desc: 快走吧，趁风停止之前
-- name: 長門有希
-  url: https://blog.yuki-nagato.com/
-  avatar: https://blog.yuki-nagato.com/images/head.png
-  desc: 信息统合思念体
-  color: "#fb7299"
-  email: yuki@yuki-nagato.com
-- name: 萌新的小窝
-  url: https://www.xinmoe.cn
-  avatar: https://cdn.jsdelivr.net/gh/Mengxin001/CDN/Head3.jpg
-  desc: 山寺桃花始盛开
-  color: "#00FFFF"
-  email: xinmoe@foxmail.com
-  
