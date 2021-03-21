@@ -66,13 +66,6 @@
   avatar: https://img.choviwu.top//1e85603490d6987fa86617df2c30e572
   desc: 曾梦想仗剑走天涯，看一看世界的繁华。
   color: "#1B0773"
-- blog: 哔哗的小站
-  name: 哔哗
-  url: https://www.lbihua.cn
-  avatar: https://cdn.jsdelivr.net/gh/Iambihua/CDN/img/20200823122210.jpg
-  email: me@lbihua.cn
-  color: "#4380D3"
-  desc: 试试就知道了！
 - blog: 迎风丨Blog
   url: https://www.lylblog.com
   avatar: https://www.lylblog.com/images/logo.png
@@ -137,3 +130,9 @@
   email: i@beyondstars.xyz
   color: "#fdf6e3"
   desc: "在探索中学习"
+- blog: 糖菓·部落
+  name: 糖菓·部落
+  url: https://candinya.com
+  avatar: https://cn.gravatar.com/avatar/a7f9e15fef26e0a540edc977e21cb3eb
+  color: "#008899"
+  desc: "Never drown the flame of hope"
