@@ -158,5 +158,11 @@
   name: 寅言万物
   url: https://hsuyin.com
   avatar: https://hsuyin.com/avatar.png
-  color: "#c85179"
+  color: "#f39800"
   desc: "一个碎碎念的小站~"
+- blog: "Enjoy's blog"
+  name: "Enjoy's blog"
+  url: https://mcenjoy.cn
+  avatar: https://mcenjoy.cn/avatar
+  color: "#38a1db"
+  desc: "记录生活"
