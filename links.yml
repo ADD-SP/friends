@@ -28,11 +28,6 @@
   url: https://713.moe/
   avatar: https://gravatar.loli.net/avatar/ad5babe8213864d97007267d9e130291?s=640
   desc: 一个热爱ACG的技术宅
-# - blog: Zhou's Blog
-#   color: "#98623c"
-#   url: https://zhoublog.xyz
-#   avatar: https://cdn.jsdelivr.net/gh/Zhou216/Zhoublog/icons/MCGIF.gif
-#   desc: WhoAmI?
 - blog: SARGIRI
   color: "#e95295"
   url: https://blog.sagiri-web.com/
@@ -55,22 +50,12 @@
   avatar: https://cdn.dusays.com/avatar.png
   desc: 师者，传道，授业，解惑！
   color: "#FF8000"
-# - blog: JsOnGmAX-博客
-#   url: https://jsong.cn/
-#   avatar: https://jsong.cn/icon.png
-#   desc: 分享网络安全、编程技术。
-#   color: "#FF8000"
 - blog: 奕仁
   name: 奕仁
   url: https://choviwu.top/
   avatar: https://img.choviwu.top//1e85603490d6987fa86617df2c30e572
   desc: 曾梦想仗剑走天涯，看一看世界的繁华。
   color: "#1B0773"
-# - blog: 迎风丨Blog
-#   url: https://www.lylblog.com
-#   avatar: https://www.lylblog.com/images/logo.png
-#   desc: 迎风的方向，更适合飞翔；我们不怕千万人阻挡，怕的是自己投降。
-#   color: "#680BAB"
 - blog: iMaeGoo’s Blog
   url: https://www.imaegoo.com
   avatar: https://www.gravatar.com/avatar/05bb2aa29c9da6ef65fabd321135e7b6?s=128
