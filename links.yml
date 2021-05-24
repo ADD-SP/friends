@@ -102,12 +102,12 @@
   url: https://sanshiliuxiao.top
   avatar: https://cdn.jsdelivr.net/gh/vensing/static@latest/avatar/sanshiliuxiao.jpg
   desc: 快走吧，趁风停止之前
-# - blog: 南瓜奶酪
-#   color: "#e95295"
-#   url: https://blog.china97.cn
-#   avatar: https://txc.gtimg.com/data/298698/2020/1212/8ba6b3fe09630e500c7dcb5e848e22ed.jpeg
-#   desc: 让信念燃烧青春
-#   email: 1@chinawei.me
+- blog: 南瓜奶酪
+  color: "#e95295"
+  url: https://killwho.com/
+  avatar: https://txc.gtimg.com/data/298698/2020/1212/8ba6b3fe09630e500c7dcb5e848e22ed.jpeg
+  desc: 让信念燃烧青春
+  email: 1@chinawei.me
 - blog: 探索子
   name: Wayne
   url: https://exploro.one
