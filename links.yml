@@ -151,10 +151,16 @@
   avatar: https://mcenjoy.cn/avatar
   color: "#38a1db"
   desc: "记录生活"
-- url: https://www.hzq.life
-  avatar: https://netdisc-list.itpours.com/blog/ico_s/logo.png
+- blog: 新加卷的小宇宙
   name: 新加卷
-  blog: 新加卷的小宇宙
+  url: https://www.hzq.life
+  avatar: https://netdisc-list.itpours.com/blog/ico_s/logo.png
   desc: 明日登峰须造极，渺观宇宙我心宽
   email: itpours@qq.com
-  color: “#FF1493” #css color:DeepPink
+  color: "#FF1493" #css color:DeepPink
+- blog: Wyatt 
+  name: Wyatt
+  url: https://math.cat/
+  avatar: https://math.cat/avatar.jpg
+  desc: Welcome to my blog 🧡
+  color: "#5a79ba"
