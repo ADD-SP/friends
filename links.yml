@@ -196,11 +196,18 @@
   url: https://www.moec.top
   avatar: https://www.moec.top/avatar
   email: admin@moec.top
-  color: “#1793d1”
-  desc: “杂七杂八的分享”
+  color: "#1793d1"
+  desc: "杂七杂八的分享"
 - blog: 林林杂语
   url: https://www.linlinzzo.top/
   avatar: https://www.linlinzzo.top/favicon.ico
   desc: 林林与伙伴们的狂欢之地
   email: 812568734@qq.com
-  color: “#5383c3
+  color: "#5383c3"
+- blog: ControlNet Blog
+  name: ControlNet
+  url: https://controlnet.space
+  avatar: https://controlnet.space/images/avatar.jpg
+  email: smczx@hotmail.com
+  desc: "永远13岁~"
+  color: "ce5242"
