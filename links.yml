@@ -210,4 +210,11 @@
   avatar: https://controlnet.space/images/avatar.jpg
   email: smczx@hotmail.com
   desc: "永远13岁~"
-  color: "ce5242"
+  color: "#ce5242" # random
+- blog: RIVALSA网络日志
+  name: Rivalsa
+  url: https://main.rivalsa.net
+  avatar: https://static.rivalsa.net/img/www_rivalsa_cn/logo/20191117180608576831.png
+  email: U2FsdGVkX1/xNXUqJcv4gYJYaCBd4Y58Yl8n9cfnIK0=
+  e_email: true
+  color: "#4c6cb3" # random
