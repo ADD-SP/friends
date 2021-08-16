@@ -69,11 +69,14 @@
 
 ## 误操作日志
 
+### 误删的友链
+
 * 博客名：萌新的小窝
 * 博客链接：`https://www.xinmoe.cn`
 * 误操作时间：2021 年 2 月 9 日。
 * 纠正时间：2021 年 8 月 12 日。
 * 误操作详情：某次[提交](https://github.com/ADD-SP/friends/commit/a81be8c73774e8c7ac2c3d10efeb738c7073e6c7#diff-1b87bcddb8cf85a9f1782f31170f4720b3bf1b5fd2aab5f8a5cdde8cdd6c4519)中错误地删除了该友链。
+* 相关链接：[交换友链](https://github.com/ADD-SP/friends/pull/5)、[误删提交](https://github.com/ADD-SP/friends/commit/a81be8c73774e8c7ac2c3d10efeb738c7073e6c7#diff-1b87bcddb8cf85a9f1782f31170f4720b3bf1b5fd2aab5f8a5cdde8cdd6c4519)。
 
 ***
 
@@ -82,3 +85,4 @@
 * 误操作时间：2021 年 2 月 9 日。
 * 纠正时间：2021 年 8 月 12 日。
 * 误操作详情：某次[提交](https://github.com/ADD-SP/friends/commit/a81be8c73774e8c7ac2c3d10efeb738c7073e6c7#diff-1b87bcddb8cf85a9f1782f31170f4720b3bf1b5fd2aab5f8a5cdde8cdd6c4519)中错误地删除了该友链。
+* 相关链接：[交换友链](https://github.com/ADD-SP/friends/pull/3)、[误删提交](https://github.com/ADD-SP/friends/commit/a81be8c73774e8c7ac2c3d10efeb738c7073e6c7#diff-1b87bcddb8cf85a9f1782f31170f4720b3bf1b5fd2aab5f8a5cdde8cdd6c4519)。
