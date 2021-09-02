@@ -4,13 +4,6 @@
 
 ### 暂时移除的友链
 
-* 博客名：霜序廿
-* 博客链接：`https://shuangxunian.gitee.io/`
-* 移除时间：2021-08-04
-* 移除原因：网站 404 超过 15 天。
-
-***
-
 * 博客名：woo’s Blog
 * 博客链接：`https://woosec.com/`
 * 移除时间：2021-08-12
@@ -38,11 +31,21 @@
 
 ### 恢复的友链
 
+* 博客名：霜序廿
+* 博客链接:
+    * 旧链接：`https://shuangxunian.gitee.io/`
+    * 新链接：`https://shuangxunian.github.io/`
+* 处理日志：
+    * 2021-09-02 因站长主动联系并通知了新地址故恢复友链。
+    * 2021-08-04 因网站 404 超过 15 天故暂时移除。
+
+***
+
 * 原博客名：Zhou’s Blog
 * 新博客名：梦墨’s Blog
 * 博客链接：
-    * 新链接：https://idream.ink
-    * 旧链接（已失效）：https://zhoublog.xyz
+    * 新链接：`https://idream.ink`
+    * 旧链接：`https://zhoublog.xyz`
 * 移除时间：2021-05-21
 * 恢复时间：2021-07-20
 * 处理日志：
@@ -57,7 +60,7 @@
 * 博客名：JsOnGmAX-博客
 * 博客链接：
   * 新链接：`https://jsongx.com/`
-  * 旧链接（已失效）：`https://jsong.cn/`
+  * 旧链接：`https://jsong.cn/`
 * 移除时间：2021-05-21
 * 恢复时间：2021-06-09
 * 处理日志：
