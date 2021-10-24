@@ -52,7 +52,7 @@ url: https://www.addesp.com
 avatar: https://www.addesp.com/avatar
 email: xxx@yyyy.zz
 color: "#007bbb"
-desc: 寂静中交织着热情
+desc: "寂静中交织着热情"
 ```
 
 * `blog`：博客名称（可选，但是`blog`和`name`至少选一个）
@@ -88,6 +88,8 @@ desc: 寂静中交织着热情
 如果友链对增加，修改，标记，暂时移除，彻底移除这几个操作，Commit 的格式见下面。
 
 Commit 格式为：emoji 博客名
+
+> 博客名有时会经过 base64 编码。
 
 * emoji：emoji 表情，可以是下列取值。
   * :white_check_mark:：表示新增了一个友链。
