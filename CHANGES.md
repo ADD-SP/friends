@@ -2,6 +2,11 @@
 
 ## 暂时移除的友链
 
+* 博客名：AweRailgun
+* 博客链接：`https://miku.mx`
+* 处理日志：
+    * 2022-03-31: 站点超过 15 天无法访问，已经尝试联系站长 [https://github.com/ADD-SP/friends/pull/7](https://github.com/ADD-SP/friends/pull/7)。
+
 ## 移除的友链
 
 * 博客名：南瓜奶酪
