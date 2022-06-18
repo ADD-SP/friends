@@ -7,13 +7,6 @@
 * 处理日志：
     * 2022-03-31: 站点超过 15 天无法访问，因为没有站长的联系方式故没有通知。
 
-***
-
-* 博客名：AweRailgun
-* 博客链接：`https://miku.mx`
-* 处理日志：
-    * 2022-03-31: 站点超过 15 天无法访问，已经尝试联系站长 [https://github.com/ADD-SP/friends/pull/7](https://github.com/ADD-SP/friends/pull/7)。
-
 ## 移除的友链
 
 * 博客名：南瓜奶酪
@@ -50,6 +43,14 @@
 * 移除原因：链接指向发生改变。
 
 ## 恢复的友链
+
+* 博客名：AweRailgun
+* 博客链接：`https://miku.mx`
+* 处理日志：
+    * 2022-06-18: 站长于当年 5 月 9 日主动联系并通知了新地址故恢复友链。
+    * 2022-03-31: 站点超过 15 天无法访问，已经尝试联系站长 [https://github.com/ADD-SP/friends/pull/7](https://github.com/ADD-SP/friends/pull/7)。
+
+***
 
 * 博客名：小太の游乐园
 * 博客链接：
