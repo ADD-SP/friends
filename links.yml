@@ -117,11 +117,11 @@
   avatar: https://www.gravatar.com/avatar/f3cab2fa088b3f3afe96a92535e5b0ab
   color: "#84b9cb"
   desc: 这个人很懒，什么都没有留下
-- blog: 寅言万物
-  name: 寅言万物
-  url: https://hsuyin.com
-  avatar: https://hsuyin.com/avatar.png
-  color: "#f39800"
+# - blog: 寅言万物
+#   name: 寅言万物
+#   url: https://hsuyin.com
+#   avatar: https://hsuyin.com/avatar.png
+#   color: "#f39800"
   desc: "一个碎碎念的小站~"
 - blog: "Enjoy's blog"
   name: "Enjoy's blog"
