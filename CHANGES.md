@@ -24,7 +24,14 @@
 * 博客链接：`https://hsuyin.com`
 * 处理日志：
     * 2023-04-16: 站点无 DNS 记录，因为没有站长的联系方式故没有通知。
-    * 2023-12-32：站点依旧无法访问，故正式移除。
+    * 2023-12-31：站点依旧无法访问，故正式移除。
+
+* 博客名：Wyatt
+* 博客链接：`https://math.cat/`
+* 处理日志：
+    * 2023-12-31：站点被重定向到 `https://www.highcpmrevenuenetwork.com`，在
+    [VirusTotal](https://www.virustotal.com/gui/url/6e70a20eebb7d5a371f69db5c967f72bde7c21019635eefd177fbfa142a8fdcd/detection)
+    被部分杀毒引擎认定为被感染/恶意网站。故正式移除，因为没有站长联系方式故没有通知。
 
 ***
 
