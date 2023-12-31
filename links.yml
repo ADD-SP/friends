@@ -43,12 +43,12 @@
   avatar: https://cdn.dusays.com/avatar.png
   desc: 师者，传道，授业，解惑！
   color: "#FF8000"
-- blog: 奕仁
-  name: 奕仁
-  url: https://choviwu.top/
-  avatar: https://img.choviwu.top//1e85603490d6987fa86617df2c30e572
-  desc: 曾梦想仗剑走天涯，看一看世界的繁华。
-  color: "#1B0773"
+# - blog: 奕仁
+#   name: 奕仁
+#   url: https://choviwu.top/
+#   avatar: https://img.choviwu.top//1e85603490d6987fa86617df2c30e572
+#   desc: 曾梦想仗剑走天涯，看一看世界的繁华。
+#   color: "#1B0773"
 - blog: iMaeGoo’s Blog
   url: https://www.imaegoo.com
   avatar: https://www.gravatar.com/avatar/05bb2aa29c9da6ef65fabd321135e7b6?s=128
