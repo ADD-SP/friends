@@ -76,13 +76,13 @@
   email: U2FsdGVkX1+L/x9DBdaa80GM9Fa8/dqVb07NlqkRhdlciOh6UWN3SVrAXupZBbDb
   color: "#FF69B4"
   desc: 眨眼间，已是千年之外
-- blog: itpik博客
-  name: itpika
-  url: https://itpika.com
-  avatar: https://itpika.com/img/head.jpg
-  color: "#FF0000"
-  email: dalgurak.liao@outlook.com
-  desc: 日复一日
+# - blog: itpik博客
+#   name: itpika
+#   url: https://itpika.com
+#   avatar: https://itpika.com/img/head.jpg
+#   color: "#FF0000"
+#   email: dalgurak.liao@outlook.com
+#   desc: 日复一日
 - blog: Yo!🤞Troy
   color: "#FF0000"
   url: https://www.yotroy.cool/
