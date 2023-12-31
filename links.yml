@@ -118,12 +118,12 @@
   color: "#84b9cb"
   desc: 这个人很懒，什么都没有留下
   desc: "一个碎碎念的小站~"
-- blog: "Enjoy's blog"
-  name: "Enjoy's blog"
-  url: https://mcenjoy.cn
-  avatar: https://mcenjoy.cn/avatar
-  color: "#38a1db"
-  desc: "记录生活"
+# - blog: "Enjoy's blog"
+#   name: "Enjoy's blog"
+#   url: https://mcenjoy.cn
+#   avatar: https://mcenjoy.cn/avatar
+#   color: "#38a1db"
+#   desc: "记录生活"
 - blog: 新加卷的小宇宙
   name: 新加卷
   url: https://www.hzq.life
