@@ -86,11 +86,11 @@
   url: https://ryan4yin.space/
   avatar: https://www.gravatar.com/avatar/2362ce7bdf2845a92240cc2f6609e001?s=240
   desc: 赞美快乐~ <= 运维、Kubernetes、Linux
-- blog: 椎咲良田
-  color: "#e95295"
-  url: https://sanshiliuxiao.top
-  avatar: https://cdn.jsdelivr.net/gh/vensing/static@latest/avatar/sanshiliuxiao.jpg
-  desc: 快走吧，趁风停止之前
+# - blog: 椎咲良田
+#   color: "#e95295"
+#   url: https://sanshiliuxiao.top
+#   avatar: https://cdn.jsdelivr.net/gh/vensing/static@latest/avatar/sanshiliuxiao.jpg
+#   desc: 快走吧，趁风停止之前
 - blog: 探索子
   name: Wayne
   url: https://exploro.one
