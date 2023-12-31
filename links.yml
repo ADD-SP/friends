@@ -150,12 +150,12 @@
   desc: 林深见鹿，海蓝见鲸。
   color: "#FF8000"
   email: 2584456944@qq.com
-- blog: 梦墨’s Blog
-  name: 梦墨
-  color: "#98623c"
-  url: https://blog.dreamo.ink/
-  avatar: https://blog.dreamo.ink/upload/2022/03/avatar-a1fe1c3f143049998aaf16a9704dff12.jpg
-  desc: "May you do good and not evil."
+# - blog: 梦墨’s Blog
+#   name: 梦墨
+#   color: "#98623c"
+#   url: https://blog.dreamo.ink/
+#   avatar: https://blog.dreamo.ink/upload/2022/03/avatar-a1fe1c3f143049998aaf16a9704dff12.jpg
+#   desc: "May you do good and not evil."
 - blog: 老兄de博客
   name: 老兄
   url: https://www.moec.top
