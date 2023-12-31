@@ -176,12 +176,12 @@
   email: U2FsdGVkX1/xNXUqJcv4gYJYaCBd4Y58Yl8n9cfnIK0=
   e_email: true
   color: "#4c6cb3" # random
-- name: 萌新的小窝 # 因为一次错误的提交，该友链被误删。根据 Pull Request 记录，双方于 2021 年 2 月 1 日完成友链交换。
-  url: https://www.xinmoe.cn
-  avatar: https://cdn.jsdelivr.net/gh/Mengxin001/CDN/Head3.jpg
-  desc: 山寺桃花始盛开
-  color: "#00FFFF"
-  email: xinmoe@foxmail.com
+# - name: 萌新的小窝 # 因为一次错误的提交，该友链被误删。根据 Pull Request 记录，双方于 2021 年 2 月 1 日完成友链交换。
+#   url: https://www.xinmoe.cn
+#   avatar: https://cdn.jsdelivr.net/gh/Mengxin001/CDN/Head3.jpg
+#   desc: 山寺桃花始盛开
+#   color: "#00FFFF"
+#   email: xinmoe@foxmail.com
 - blog: 弋钓草野 # 该友链申请通过时并未第一时间记录在此，根据邮件通信记录，双方于 2020 年 9 月 13 日完成友链交换。
   url: https://www.aliuying.com
   avatar: https://cdn.jsdelivr.net/gh/Mengxin001/CDN/Head3.jpg
