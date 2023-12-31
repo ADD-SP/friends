@@ -127,7 +127,7 @@
 - blog: 新加卷的小宇宙
   name: 新加卷
   url: https://www.hzq.life
-  avatar: https://netdisc-list.itpours.com/blog/ico_s/logo.png
+  avatar: https://minio.itpours.com:9000/website-res/blog/ico_s/logo.png
   desc: 明日登峰须造极，渺观宇宙我心宽
   email: itpours@qq.com
   color: "#FF1493" #css color:DeepPink
