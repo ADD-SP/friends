@@ -163,12 +163,12 @@
   email: admin@moec.top
   color: "#1793d1"
   desc: "杂七杂八的分享"
-- blog: 林林杂语
-  url: https://www.linlinzzo.top/
-  avatar: https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?s=192&r=g
-  desc: 林林与伙伴们的狂欢之地
-  email: 812568734@qq.com
-  color: "#5383c3"
+# - blog: 林林杂语
+#   url: https://www.linlinzzo.top/
+#   avatar: https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?s=192&r=g
+#   desc: 林林与伙伴们的狂欢之地
+#   email: 812568734@qq.com
+#   color: "#5383c3"
 - blog: ControlNet Blog
   name: ControlNet
   url: https://controlnet.space
