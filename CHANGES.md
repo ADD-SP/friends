@@ -53,6 +53,11 @@
     [VirusTotal](https://www.virustotal.com/gui/url/6e70a20eebb7d5a371f69db5c967f72bde7c21019635eefd177fbfa142a8fdcd/detection)
     被部分杀毒引擎认定为被感染/恶意网站。故正式移除，因为没有站长联系方式故没有通知。
 
+* 博客名：慕若曦
+* 博客链接：`https://www.muruoxi.com/`
+* 处理日志：
+    * 2023-12-31：站点无法访问，联系后站长暂无开博客的打算，故正式移除。
+
 ***
 
 * 博客名：南瓜奶酪
