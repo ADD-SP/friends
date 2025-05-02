@@ -100,11 +100,6 @@
   desc: 明日登峰须造极，渺观宇宙我心宽
   email: itpours@qq.com
   color: "#FF1493" #css color:DeepPink
-- blog: JsOnGmAX-博客
-  url: https://jsongx.com/
-  avatar: https://jsongx.com/usr/themes/handsome/assets/img/avatar.png
-  desc: 分享网络安全、编程技术。
-  color: "#FF8000"
 - blog: 辛未羊
   url: https://panqiincs.me/
   avatar: https://panqiincs.me/images/avatar.jpg
