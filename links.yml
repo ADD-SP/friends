@@ -112,13 +112,6 @@
   color: "#00a381" # random
   email: U2FsdGVkX18syIHv2jihRDpsxJfmqjD4GKaJeQzjqDB/X3wY0mi63uzo2NfkQRwp
   e_email: true
-- blog: Hong's Blog
-  name: 云淡风轻
-  url: https://blog.mehoon.com
-  avatar: https://blog.mehoon.com/wp-content/uploads/2021/06/cropped-avatar.jpg
-  desc: 林深见鹿，海蓝见鲸。
-  color: "#FF8000"
-  email: 2584456944@qq.com
 - blog: 老兄de博客
   name: 老兄
   url: https://www.moec.top
