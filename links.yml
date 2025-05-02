@@ -88,13 +88,6 @@
   color: "#84b9cb"
   desc: 这个人很懒，什么都没有留下
   desc: "一个碎碎念的小站~"
-- blog: 新加卷的小宇宙
-  name: 新加卷
-  url: https://www.hzq.life
-  avatar: https://minio.itpours.com:9000/website-res/blog/ico_s/logo.png
-  desc: 明日登峰须造极，渺观宇宙我心宽
-  email: itpours@qq.com
-  color: "#FF1493" #css color:DeepPink
 - blog: 辛未羊
   url: https://panqiincs.me/
   avatar: https://panqiincs.me/images/avatar.jpg
