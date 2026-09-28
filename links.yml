@@ -84,10 +84,10 @@
   color: "#84b9cb"
   desc: 这个人很懒，什么都没有留下
   desc: "一个碎碎念的小站~"
-- blog: 辛未羊
-  url: https://panqiincs.me/
-  avatar: https://panqiincs.me/images/avatar.jpg
-  desc: 人生如逆旅，我亦是行人
+- blog: 北州店子
+  url: https://numden.com/
+  avatar: https://numden.com/images/avatar.jpg
+  desc: 记录生活和学习
   color: "#00a381" # random
   email: U2FsdGVkX18syIHv2jihRDpsxJfmqjD4GKaJeQzjqDB/X3wY0mi63uzo2NfkQRwp
   e_email: true
